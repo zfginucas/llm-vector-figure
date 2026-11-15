@@ -2,7 +2,7 @@
 
 **Raster → Fully Vector PPTX: An LLM-in-the-loop Case Study**
 
-作者：fuguizhao（GitHub: [@zfgincau](https://github.com/zfgincau)）  
+作者：fuguizhao（GitHub: [@zfginucas](https://github.com/zfginucas)）  
 日期：2026-11-15  
 代码与数据：本仓库
 
