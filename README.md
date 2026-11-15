@@ -28,7 +28,8 @@
 ├── figures/
 │   ├── pipeline.png           # 系统架构
 │   ├── iteration_history.png  # 19 轮迭代 + 8 张过程快照
-│   └── comparison.png         # 目标 / outline / editable 三联对比
+│   ├── comparison.png         # 目标 / outline / editable 三联对比
+│   └── REPORT.pdf             # 报告 PDF 版
 ├── assets/target.png          # 目标图（gpt-image-2.5-sunburst 生成，保留 C2PA）
 ├── data/
 │   ├── shapes.json            # 图标/波形轮廓
