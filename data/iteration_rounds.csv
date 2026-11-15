@@ -1,0 +1,20 @@
+round,ssim,mode,note
+1,0.6936,outline,"first build (text boxes, ungrouped contours)"
+2,0.7219,outline,font size / colour calibration
+3,0.7333,outline,contour grouping (outer + holes)
+4,0.7415,outline,"crop bounds, labels, arrows, separators"
+5,0.7415,outline,hole overlay fix (tongue)
+6,0.7415,outline,mask/colour refinement
+7,0.7412,outline,title / header position tuning
+8,0.7433,outline,header wrap disabled
+9,0.7528,outline,per-card body/header tuning
+10,0.7555,outline,final text metric tuning
+11,0.7623,outline,outline text mode (glyphs traced)
+12,0.8101,outline,outline colour prefix fix
+13,0.8039,outline,tighter text masks
+14,0.811,outline,colour-ramp masks (peak)
+15,0.8099,outline,tiny-hole filter
+16,0.8092,outline,labels back to text boxes
+17,0.8095,outline,4x supersampled text tracing
+18,0.774,editable,editable variant
+19,0.8095,outline,path localisation recheck
